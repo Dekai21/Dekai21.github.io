@@ -27,5 +27,13 @@ Activities
 * Carolo Cup, TU Braunschweig, Germany (2018.2) [video](https://youtu.be/5HZ6VQnKYWo)
 
 Scholarships & Prizes
+======
 * Tongji University Scholarship of Excellence (2015 - 2020)
 * The Second National Prize of China Undergraduate Mathematical Contest in Modeling (2017)
+
+Skills
+======
+* Mandarin Chinese (native), Teochew dialect (native), English (C1), German (C1)
+* Python, C/C++, MATLAB
+* SUMO, CARLA
+* AutoCAD, Altium Designer
