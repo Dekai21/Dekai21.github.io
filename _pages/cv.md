@@ -7,53 +7,25 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<!-- {% include base_path %}
+[[PDF CV](http)] -->
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. Automotive Engineering (Specialization: Automotive Electronics), Tongji University (2020)
+* M.Sc. Robotics, Cognition, Intelligence, Technical University of Munich (2023 expected)
 
-Work experience
+Working Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Master's Thesis Student, Bosch (XC/ENA-2), Abstatt, Germany (2022.4 - 2022.9)
+* Research Assistant, Bosch (XC/ENA-2), Abstatt, Germany (2021.10 - 2022.3)
+* Intern Engineer, XYZ Robotics, Shanghai, China (2020.6 - 2020.9)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Activities
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* IEEE International Conference on Robotics and Biomimetics (ROBIO), Dali, China (2019.12)
+* Carolo Cup, TU Braunschweig, Germany (2018.2) [video](https://youtu.be/5HZ6VQnKYWo)
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Scholarships & Prizes
+* Tongji University Scholarship of Excellence (2015 - 2020)
+* The Second National Prize of China Undergraduate Mathematical Contest in Modeling (2017)
