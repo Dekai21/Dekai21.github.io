@@ -1,5 +1,5 @@
 ---
-title: "Learning Trajectory Prediction for Multiple Vehicles at Intersections using State and Intention Information"
+title: "Multi-Vehicle Trajectory Prediction at Intersections using State and Intention Information"
 collection: publications
 permalink: /publication/Multi-Agent_Intersection
 ---
@@ -16,7 +16,7 @@ Technical University of Munich
 
 
 <p align = "justify"> 
-Traditional approaches to prediction of future trajectory of road agents rely on knowing information about their past trajectory. This work rather relies only on having knowledge of the current state and intended direction to make predictions for multiple vehicles at intersections. Furthermore, message passing of this information between the vehicles provides each one of them a more holistic overview of the environment allowing for a more informed prediction. This approach can further be extended to additionally control the multiple vehicles to drive towards desired paths by manipulating their intention. Experimental results demonstrate the robustness of our approach both in terms of trajectory prediction and vehicle control at intersections.
+Traditional approaches to prediction of future trajectory of road agents rely on knowing information about their past trajectory. This work rather relies only on having knowledge of the current state and intended direction to make predictions for multiple vehicles at intersections. Furthermore, message passing of this information between the vehicles provides each one of them a more holistic overview of the environment allowing for a more informed prediction. This is done by training a neural network which takes the state and intent of the multiple vehicles to predict their future trajectory. Using the intention as an input allows our approach to be extended to additionally control the multiple vehicles to drive towards desired paths. Experimental results demonstrate the robustness of our approach both in terms of trajectory prediction and vehicle control at intersections.
 </p>
 
 [[video](https://drive.google.com/file/d/1V74KRbbgGNnIJ3vWwqs3vQ9wO5Y01D2S/view?usp=share_link)]
