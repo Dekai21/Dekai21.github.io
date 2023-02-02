@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/Stereo-Reconstruction
 ---
 
-2021.5 - 2021.8
+2021.5 - 2021.8 (Project in the lecture "3D Scanning & Motion Capture (IN2354)")
 
 <center>
 <b>Dekai Zhu</b>, Dongyue Lu, Qianyi Yang, Weihua Huang <br /> 

@@ -24,7 +24,7 @@ Working Experience
 Activities
 ======
 * IEEE International Conference on Robotics and Biomimetics (ROBIO), Dali, China (2019.12)
-* Carolo Cup, TU Braunschweig, Germany (2018.2) [video](https://youtu.be/5HZ6VQnKYWo)
+* Carolo Cup, TU Braunschweig, Germany (2018.2) [[competition video](https://www.youtube.com/live/5HZ6VQnKYWo?feature=share&t=275)][[test video](https://drive.google.com/file/d/1o1eM7MCZPBmvqfCC7Hkp2cxYASPaqQIQ/view?usp=sharing)]
 
 Scholarships & Prizes
 ======
