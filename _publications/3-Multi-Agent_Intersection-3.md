@@ -21,3 +21,4 @@ Traditional approaches to prediction of future trajectory of road agents rely on
 
 [[video](https://github.com/Dekai21/Multi_Agent_Intersection/tree/master/videos)]
 [[code](https://github.com/Dekai21/Multi_Agent_Intersection)]
+[[paper](https://arxiv.org/abs/2301.02561)]
