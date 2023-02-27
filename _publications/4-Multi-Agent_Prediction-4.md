@@ -4,12 +4,12 @@ collection: publications
 permalink: /publication/Multi-Agent_Prediction
 ---
 
-2022.4 - 2022.11 (Submitted, under review)
+2022.4 - 2022.11 (Accepted by CVPR 2023)
 
 <center>
-<b>Dekai Zhu</b>, Guangyao Zhai, Yan Di, Dr. Fabian Manhardt <br /> 
-Hendrik Berkemeyer, Dr. Anh Tuan Tran, Dr. Benjamin Busam, Prof. Nassir Navab <br />
-Technical University of Munich, Robert Bosch GmbH
+<b>Dekai Zhu</b>, Guangyao Zhai, Yan Di, Dr. Fabian Manhardt, Hendrik Berkemeyer, <br /> 
+Dr. Anh Tuan Tran, Prof. Nassir Navab, PD Dr. Federico Tombari, Dr. Benjamin Busam <br />
+Technical University of Munich, Robert Bosch GmbH, Google Inc.
 </center>
 
 
