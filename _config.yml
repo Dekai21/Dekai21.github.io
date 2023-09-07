@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dekai Zhu / Personal Page"
 title_separator          : "-"
 name                     : &name "Dekai Zhu"
-description              : &description "Master's student at TUM"
+description              : &description "PhD student at TUM"
 url                      : https://dekai21.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Dekai21/Dekai21.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dekai Zhu"
   avatar           : "profile.jpg"
-  bio              : "Master's student at TUM"
+  bio              : "PhD student at TUM"
   location         : "Munich, Germany"
   employer         :
   pubmed           : 
