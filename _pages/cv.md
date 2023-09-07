@@ -13,7 +13,7 @@ redirect_from:
 Education
 ======
 * B.Sc. Automotive Engineering (Specialization: Automotive Electronics), Tongji University (2020)
-* M.Sc. Robotics, Cognition, Intelligence, Technical University of Munich (2023 expected)
+* M.Sc. Robotics, Cognition, Intelligence, Technical University of Munich (2023)
 
 Working Experience
 ======
