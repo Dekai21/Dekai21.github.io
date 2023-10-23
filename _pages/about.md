@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <!-- <p align = "justify">  -->
-I am currently a PhD student at the Technical University of Munich, sponsored by Siemens AG. I am supervised by [Slobodan Ilic](https://scholar.google.de/citations?user=ELOVd8sAAAAJ&hl=en) and [Benjamin Busam](https://scholar.google.de/citations?user=u4rJZwUAAAAJ&hl=en).
+I am currently a PhD student at the Technical University of Munich, sponsored by Siemens AG. I am supervised by [Slobodan Ilic](https://scholar.google.de/citations?user=ELOVd8sAAAAJ&hl=en), [Nassir Navab](https://scholar.google.de/citations?user=kzoVUPYAAAAJ&hl=en) and [Benjamin Busam](https://scholar.google.de/citations?user=u4rJZwUAAAAJ&hl=en).
 Previously, I worked with [Guangyao Zhai](https://ymxlzgy.com/) and [Yan Di](https://shangbuhuan13.github.io/) from [CAMP](https://www.cs.cit.tum.de/camp/start/) at TUM. In addition, I did a research project under the supervision of  [Qadeer Khan](https://vision.in.tum.de/members/khamuham) and [Daniel Cremers](https://vision.in.tum.de/members/cremers) in the [Computer Vision Group](https://vision.in.tum.de/) at TUM. Before that, I obtained my bachelor's degree in automotive engineering in Tongji University, Shanghai, China, in 2020.
 <!-- </p> -->
 
