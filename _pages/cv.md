@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+# title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -12,28 +12,27 @@ redirect_from:
 
 Education
 ======
-* B.Sc. Automotive Engineering (Specialization: Automotive Electronics), Tongji University (2020)
 * M.Sc. Robotics, Cognition, Intelligence, Technical University of Munich (2023)
+* B.Sc. Automotive Engineering (Specialization: Automotive Electronics), Tongji University (2020)
 
 Working Experience
 ======
-* Master's Thesis Student, Bosch (XC/ENA-2), Abstatt, Germany (2022.4 - 2022.9)
-* Research Assistant, Bosch (XC/ENA-2), Abstatt, Germany (2021.10 - 2022.3)
+* Doctoral Researcher, Siemens (FT), Munich, Germany (2023.6 - present)
+* Master's Thesis Student, Bosch (XC), Abstatt, Germany (2022.4 - 2022.9)
+* Research Assistant, Bosch (XC), Abstatt, Germany (2021.10 - 2022.3)
 * Intern Engineer, XYZ Robotics, Shanghai, China (2020.6 - 2020.9)
 
-Activities
-======
-* IEEE International Conference on Robotics and Biomimetics (ROBIO), Dali, China (2019.12)
-* Carolo Cup, TU Braunschweig, Germany (2018.2) [[competition video](https://www.youtube.com/live/5HZ6VQnKYWo?feature=share&t=275)][[test video](https://drive.google.com/file/d/1o1eM7MCZPBmvqfCC7Hkp2cxYASPaqQIQ/view?usp=sharing)]
 
-Scholarships & Prizes
+Activities & Prizes
 ======
+* Siemens Simcenter Hackathon, 1st place (2024)
+* Carolo Cup, Braunschweig, Germany (2018.2) [[Competition](https://www.youtube.com/live/5HZ6VQnKYWo?feature=share&t=275)][[Test](https://drive.google.com/file/d/1o1eM7MCZPBmvqfCC7Hkp2cxYASPaqQIQ/view?usp=sharing)]
 * Tongji University Scholarship of Excellence (2015 - 2020)
 * The Second National Prize of China Undergraduate Mathematical Contest in Modeling (2017)
 
-Skills
+Others
 ======
 * Mandarin Chinese (native), Teochew dialect (native), English (C1), German (C1)
 * Python, C/C++, MATLAB
-* SUMO, CARLA
-* AutoCAD, Altium Designer
+* Recently reading: Empire of Cotton: A Global History
+* Another cup of tea... :)

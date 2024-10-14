@@ -10,13 +10,14 @@ redirect_from:
 
 <!-- <p align = "justify">  -->
 I am currently a PhD student at the Technical University of Munich, sponsored by Siemens AG. I am supervised by [Slobodan Ilic](https://scholar.google.de/citations?user=ELOVd8sAAAAJ&hl=en), [Nassir Navab](https://scholar.google.de/citations?user=kzoVUPYAAAAJ&hl=en) and [Benjamin Busam](https://scholar.google.de/citations?user=u4rJZwUAAAAJ&hl=en).
-Previously, I worked with [Guangyao Zhai](https://ymxlzgy.com/) and [Yan Di](https://shangbuhuan13.github.io/) from [CAMP](https://www.cs.cit.tum.de/camp/start/) at TUM. In addition, I did a research project under the supervision of  [Qadeer Khan](https://vision.in.tum.de/members/khamuham) and [Daniel Cremers](https://vision.in.tum.de/members/cremers) in the [Computer Vision Group](https://vision.in.tum.de/) at TUM. Before that, I obtained my bachelor's degree in automotive engineering in Tongji University, Shanghai, China, in 2020.
+Previously, I worked with [Guangyao Zhai](https://ymxlzgy.com/) and [Yan Di](https://shangbuhuan13.github.io/) from [CAMP](https://www.cs.cit.tum.de/camp/start/) at TUM. In addition, I did a research project under the supervision of  [Qadeer Khan](https://vision.in.tum.de/members/khamuham) and [Daniel Cremers](https://vision.in.tum.de/members/cremers) in the [Computer Vision Group](https://vision.in.tum.de/) at TUM. Before that, I completed my bachelor's thesis under the supervision of [Guang Chen](https://ispc-group.github.io/) and obtained my bachelor's degree in automotive engineering in Tongji University, Shanghai, China, in 2020.
 <!-- </p> -->
 
-Research
+Research Interests
 ======
 <!-- <p align = "justify">  -->
-I believe that the application of artificial intelligence in robotics and autonomous driving would reshape our mobility system, increase our productivity, and, ultimately, the well-being of our society. I work on improving the perception and prediction modules for the ego agent, and I also conducted the study of multi-agent collaboration in traffic scenarios. 
+My current research focuses on the application of generative AI in 3D computer vision / graphics, particularly in data representations such as point clouds and B-Rep.
+I am also deeply interested in autonomous driving, as I believe it would reshape our mobility system, increase our productivity, and, ultimately, the well-being of our society.
 <!-- </p> -->
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
