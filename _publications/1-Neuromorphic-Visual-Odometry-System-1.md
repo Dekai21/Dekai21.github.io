@@ -7,7 +7,7 @@ permalink: /publication/1-Neuromorphic-Visual-Odometry-System-1
 IEEE ROBIO, 2019
 
 <center>
-<b>Dekai Zhu</b>, Zhongcong Xu, Jinhu Dong, Canbo Ye, Prof. Guang Chen, et al. <br /> 
+Dekai Zhu, Zhongcong Xu, Jinhu Dong, Canbo Ye, Prof. Guang Chen, et al. <br /> 
 Tongji University 
 
 <!-- ### [Paper](https://ieeexplore.ieee.org/document/8961878) -->

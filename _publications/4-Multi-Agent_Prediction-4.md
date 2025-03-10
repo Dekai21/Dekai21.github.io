@@ -7,7 +7,7 @@ permalink: /publication/Multi-Agent_Prediction
 CVPR, 2023
 
 <center>
-<b>Dekai Zhu</b>, Guangyao Zhai, Yan Di, Fabian Manhardt, Hendrik Berkemeyer, <br /> 
+Dekai Zhu*, Guangyao Zhai*, Yan Di, Fabian Manhardt, Hendrik Berkemeyer, <br /> 
 Anh Tuan Tran, Nassir Navab, Federico Tombari, Benjamin Busam <br />
 Technical University of Munich, Robert Bosch GmbH, Google
 </center>

@@ -8,7 +8,9 @@ CVPR, 2025
 
 <center>
 Dekai Zhu<sup>1,2,3</sup>, Yan Di<sup>1</sup>, Stefan Gavranovic<sup>2</sup>, Slobodan Ilic<sup>1,2</sup> <br /> 
-<sup>1</sup> Technical University of Munich, <sup>2</sup> Siemens AG, <sup>3</sup> Munich Center for Machine Learning
+<sup>1</sup> Technical University of Munich, <sup>2</sup> Siemens AG, <sup>3</sup> Munich Center for Machine Learning <br />
+<br /> 
+(Our paper is coming soon!)
 </center>
 <br/>
 

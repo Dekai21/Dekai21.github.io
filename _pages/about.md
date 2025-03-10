@@ -9,15 +9,21 @@ redirect_from:
 ---
 
 <!-- <p align = "justify">  -->
-I am currently a PhD student at the Technical University of Munich, sponsored by Siemens AG. I am supervised by [Slobodan Ilic](https://scholar.google.de/citations?user=ELOVd8sAAAAJ&hl=en), [Nassir Navab](https://scholar.google.de/citations?user=kzoVUPYAAAAJ&hl=en) and [Benjamin Busam](https://scholar.google.de/citations?user=u4rJZwUAAAAJ&hl=en).
-Previously, I worked with [Guangyao Zhai](https://ymxlzgy.com/) and [Yan Di](https://shangbuhuan13.github.io/) from [CAMP](https://www.cs.cit.tum.de/camp/start/) at TUM. In addition, I did a research project under the supervision of  [Qadeer Khan](https://vision.in.tum.de/members/khamuham) and [Daniel Cremers](https://vision.in.tum.de/members/cremers) in the [Computer Vision Group](https://vision.in.tum.de/) at TUM. Before that, I completed my bachelor's thesis under the supervision of [Guang Chen](https://ispc-group.github.io/) and obtained my bachelor's degree in automotive engineering in Tongji University, Shanghai, China, in 2020.
+I am currently a PhD student at the Technical University of Munich, sponsored by Siemens AG, under the supervision of [Slobodan Ilic](https://scholar.google.de/citations?user=ELOVd8sAAAAJ&hl=en), [Nassir Navab](https://scholar.google.de/citations?user=kzoVUPYAAAAJ&hl=en), and [Benjamin Busam](https://scholar.google.de/citations?user=u4rJZwUAAAAJ&hl=en). Previously, I earned my master’s degree at TUM, where I had the opportunity to work with [Guangyao Zhai](https://ymxlzgy.com/) and [Yan Di](https://shangbuhuan13.github.io/) from [CAMP](https://www.cs.cit.tum.de/camp/start/), as well as [Qadeer Khan](https://vision.in.tum.de/members/khamuham) from the [Computer Vision Group](https://vision.in.tum.de/). Before that, I completed my bachelor’s degree in automotive engineering at Tongji University, Shanghai, in 2020, with my thesis supervised by [Guang Chen](https://ispc-group.github.io/).
 <!-- </p> -->
 
-Research Interests
-======
+# Research Interests
 <!-- <p align = "justify">  -->
 My current research focuses on the application of generative AI in 3D computer vision / graphics, particularly in data representations such as point clouds and B-Rep.
 I am also deeply interested in autonomous driving, as I believe it would reshape our mobility system, increase our productivity, and, ultimately, the well-being of our society.
+
+## GenAI & 3D Vision
+- SeaLion: Semantic Part-Aware Latent Point Diffusion Models for 3D Generation&nbsp;&nbsp;**(CVPR 2025)** [[Link]](https://dekai21.github.io/publication/SeaLion)
+
+## Autonomous Driving
+- IPCC-TP: Utilizing Incremental Pearson Correlation Coefficient for Joint Multi-Agent Trajectory Prediction&nbsp;&nbsp;**(CVPR 2023)** [[Link]](https://dekai21.github.io/publication/Multi-Agent_Prediction)
+- Multi-Vehicle Trajectory Prediction and Control at Intersections using State and Intention Information&nbsp;&nbsp;**(Neurocomputing 2024)** [[Link]](https://dekai21.github.io/Multi_Agent_Intersection/)
+- Neuromorphic Visual Odometry System for Intelligent Vehicle Application with Bio-inspired Vision Sensor&nbsp;&nbsp;**(ROBIO 2019)** [[Link]](https://dekai21.github.io/publication/1-Neuromorphic-Visual-Odometry-System-1)
 <!-- </p> -->
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).

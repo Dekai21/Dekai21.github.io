@@ -7,7 +7,7 @@ permalink: /publication/Multi-Agent_Intersection
 Neurocomputing, 2024
 
 <center>
-<b>Dekai Zhu*</b>, Qadeer Khan*, Prof. Daniel Cremers <br /> 
+Dekai Zhu*, Qadeer Khan*, Prof. Daniel Cremers <br /> 
 Technical University of Munich 
 </center>
 

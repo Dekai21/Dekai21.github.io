@@ -7,7 +7,7 @@ permalink: /publication/Stereo-Reconstruction
 Project in the lecture "3D Scanning & Motion Capture (IN2354)", 2021
 
 <center>
-<b>Dekai Zhu</b>, Dongyue Lu, Qianyi Yang, Weihua Huang <br /> 
+Dekai Zhu, Dongyue Lu, Qianyi Yang, Weihua Huang <br /> 
 Supervisor: Yuchen Rao, Prof. Angela Dai <br /> 
 Technical University of Munich
 </center>
