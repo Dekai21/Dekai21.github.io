@@ -10,7 +10,11 @@ CVPR, 2025
 Dekai Zhu<sup>1,2,3</sup>, Yan Di<sup>1</sup>, Stefan Gavranovic<sup>2</sup>, Slobodan Ilic<sup>1,2</sup> <br /> 
 <sup>1</sup> Technical University of Munich, <sup>2</sup> Siemens AG, <sup>3</sup> Munich Center for Machine Learning <br />
 <br /> 
-(Our paper is coming soon!)
+<p align="center">
+  <a href="https://dekai21.github.io/SeaLion/">Project Page</a> | 
+  <!-- <a href="https://www.sciencedirect.com/science/article/pii/S0925231223013437">Paper</a> |  -->
+  <a href="https://arxiv.org/abs/2505.17721">Paper</a>
+</p>
 </center>
 <br/>
 

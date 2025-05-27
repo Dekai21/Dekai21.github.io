@@ -17,13 +17,22 @@ I am currently a PhD student at the Technical University of Munich, sponsored by
 My current research focuses on the application of generative AI in 3D computer vision / graphics, particularly in data representations such as point clouds and B-Rep.
 I am also deeply interested in autonomous driving, as I believe it would reshape our mobility system, increase our productivity, and, ultimately, the well-being of our society.
 
-## GenAI & 3D Vision
-- SeaLion: Semantic Part-Aware Latent Point Diffusion Models for 3D Generation&nbsp;&nbsp;**(CVPR 2025)** [[Link]](https://dekai21.github.io/publication/SeaLion)
+## Publications
+### GenAI & 3D Vision
+- SeaLion: Semantic Part-Aware Latent Point Diffusion Models for 3D Generation&nbsp;&nbsp;**(CVPR 2025)** [[Project Page]](https://dekai21.github.io/SeaLion/)[[Code]](https://github.com/Dekai21/SeaLion)[[Video]](https://youtu.be/aYmAM-nI78Y?si=C7aMPvK2eHpnEfiK)[[视频]](https://www.bilibili.com/video/BV1b23dzUEF4/?share_source=copy_web&vd_source=d484dd59f507d51710a45ec873857c76)
+- Generative Data Augmentation for Object Point Cloud Segmentation&nbsp;&nbsp;**(preprint)** [[Link]](https://arxiv.org/abs/2505.17783)
+- SPIRAL: Semantic-Aware Progressive LiDAR Scene Generation&nbsp;&nbsp;**(preprint)** [[Link]](https://arxiv.org/abs/2505.22643)
 
-## Autonomous Driving
+### Autonomous Driving
 - IPCC-TP: Utilizing Incremental Pearson Correlation Coefficient for Joint Multi-Agent Trajectory Prediction&nbsp;&nbsp;**(CVPR 2023)** [[Link]](https://dekai21.github.io/publication/Multi-Agent_Prediction)
 - Multi-Vehicle Trajectory Prediction and Control at Intersections using State and Intention Information&nbsp;&nbsp;**(Neurocomputing 2024)** [[Link]](https://dekai21.github.io/Multi_Agent_Intersection/)
 - Neuromorphic Visual Odometry System for Intelligent Vehicle Application with Bio-inspired Vision Sensor&nbsp;&nbsp;**(ROBIO 2019)** [[Link]](https://dekai21.github.io/publication/1-Neuromorphic-Visual-Odometry-System-1)
+
+## Patents
+- Sketch2Sim: Diffusion Model-Based 3D Object Generation for Structural Analysis **(filed, 2025)**
+- LLM-based Autonomous 3D Structural Analysis **(filed, 2025)**
+- Generative Data Augmentation for 3D Part Segmentation **(filed, 2024)**
+
 <!-- </p> -->
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
