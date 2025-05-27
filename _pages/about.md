@@ -18,7 +18,9 @@ My current research focuses on the application of generative AI in 3D computer v
 I am also deeply interested in autonomous driving, as I believe it would reshape our mobility system, increase our productivity, and, ultimately, the well-being of our society.
 
 ## GenAI & 3D Vision
-- SeaLion: Semantic Part-Aware Latent Point Diffusion Models for 3D Generation&nbsp;&nbsp;**(CVPR 2025)** [[Link]](https://dekai21.github.io/publication/SeaLion)
+- SeaLion: Semantic Part-Aware Latent Point Diffusion Models for 3D Generation&nbsp;&nbsp;**(CVPR 2025)** [[Link]](https://dekai21.github.io/SeaLion/)
+- Generative Data Augmentation for Object Point Cloud Segmentation&nbsp;&nbsp;**(preprint)** [[Link]](https://arxiv.org/abs/2505.17783)
+- SPIRAL: Semantic-Aware Progressive LiDAR Scene Generation&nbsp;&nbsp;**(preprint)** [[Link]](https://arxiv.org/abs/2505.22643)
 
 ## Autonomous Driving
 - IPCC-TP: Utilizing Incremental Pearson Correlation Coefficient for Joint Multi-Agent Trajectory Prediction&nbsp;&nbsp;**(CVPR 2023)** [[Link]](https://dekai21.github.io/publication/Multi-Agent_Prediction)
