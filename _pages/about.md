@@ -20,7 +20,7 @@ I am also deeply interested in autonomous driving, as I believe it would reshape
 ## Publications
 ### GenAI & 3D Vision
 - 3D and 4D World Modeling: A Survey&nbsp;&nbsp;**(preprint)** [[Website]](https://worldbench.github.io/survey) [[GitHub]](https://github.com/worldbench/survey) [[Paper]](https://arxiv.org/abs/2509.07996)
-- SPIRAL: Semantic-Aware Progressive LiDAR Scene Generation&nbsp;&nbsp;**(NeurIPS 2025)** [[Project Page]](https://dekai21.github.io/SPIRAL/) [[Paper]](https://arxiv.org/abs/2505.22643)
+- SPIRAL: Semantic-Aware Progressive LiDAR Scene Generation and Understanding&nbsp;&nbsp;**(NeurIPS 2025)** [[Project Page]](https://dekai21.github.io/SPIRAL/) [[Paper]](https://arxiv.org/abs/2505.22643) [[Code]](https://github.com/worldbench/spiral)
 - Generative Data Augmentation for Object Point Cloud Segmentation&nbsp;&nbsp;**(BMVC 2025)** [[Link]](https://arxiv.org/abs/2505.17783) [[Video]](https://www.bilibili.com/video/BV1yw13BSE7L/?share_source=copy_web&vd_source=d484dd59f507d51710a45ec873857c76)
 - SeaLion: Semantic Part-Aware Latent Point Diffusion Models for 3D Generation&nbsp;&nbsp;**(CVPR 2025)** [[Project Page]](https://dekai21.github.io/SeaLion/) [[Code]](https://github.com/Dekai21/SeaLion) [[Video]](https://youtu.be/aYmAM-nI78Y?si=C7aMPvK2eHpnEfiK) [[视频]](https://www.bilibili.com/video/BV1b23dzUEF4/?share_source=copy_web&vd_source=d484dd59f507d51710a45ec873857c76)
 

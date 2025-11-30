@@ -26,7 +26,7 @@ Working Experience
 Activities & Prizes
 ======
 * Siemens Simcenter Hackathon, 1st place (2024)
-* Carolo Cup, Braunschweig, Germany (2018.2) [[Competition](https://www.youtube.com/live/5HZ6VQnKYWo?feature=share&t=275)][[Test](https://drive.google.com/file/d/1o1eM7MCZPBmvqfCC7Hkp2cxYASPaqQIQ/view?usp=sharing)]
+* Carolo Cup, Braunschweig, Germany (2018.2) [[Competition](https://www.youtube.com/live/5HZ6VQnKYWo?feature=share&t=275)] [[Test](https://drive.google.com/file/d/1o1eM7MCZPBmvqfCC7Hkp2cxYASPaqQIQ/view?usp=sharing)]
 * Tongji University Scholarship of Excellence (2015 - 2020)
 * The Second National Prize of China Undergraduate Mathematical Contest in Modeling (2017)
 
