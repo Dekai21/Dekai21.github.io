@@ -34,5 +34,5 @@ Others
 ======
 * Mandarin Chinese (native), Teochew dialect (native), English (C1), German (C1)
 * Python, C/C++, MATLAB
-* Recently reading: Empire of Cotton: A Global History
+* Recently reading: "Science for the Empire: Scientific Nationalism in Modern Japan"
 * Another cup of tea... :)
